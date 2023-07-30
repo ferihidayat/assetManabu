@@ -1,7 +1,7 @@
 {
     "app": [{
-        "nama": "Manabu",
-        "nama_jp": "学ぶ",
+        "title": "Manabu",
+        "title_jp": "学ぶ",
         "author": "Feri Hidayatulloh",
         "author_jp": "フェリ　ヒダヤトゥロー",
         "deskripsi": "Web tempat belajar B Jepang, Choukai Dll",
@@ -42,19 +42,19 @@
         }],
         "kategori": [{
             "id": 1,
-            "nama": "#Nihon Go",
+            "title": "#Nihon Go",
             "link": "#"
         }, {
             "id": 2,
-            "nama": "#Choukai JFT",
+            "title": "#Choukai JFT",
             "link": "choukai/index.html"
         }, {
             "id": 3,
-            "nama": "#Choukai JLPT",
+            "title": "#Choukai JLPT",
             "link": "choukai/index.html"
         }, {
             "id": 4,
-            "nama": "#Kanji",
+            "title": "#Kanji",
             "link": "https://kotobaweb.com/kanjigame/create"
         }]
     }]
